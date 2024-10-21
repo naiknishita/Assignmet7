@@ -1,4 +1,10 @@
-package bank;
+// Author: Nishita Naik
+// Roll no: 28
+// Title: Student Management Sysyem
+// Start date: 21/10/2024
+// Description: In the peogram user can add the students and view all the students details.
+// IT has a generic class Student
+// InputMismatchException Error Handling is implemented for handling input type error
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
